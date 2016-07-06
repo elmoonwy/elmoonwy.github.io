@@ -1,6 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Just a try"
 date:   2016-07-05 23:18:10
 categories: jekyll update
 ---
+
+```swift
+let test = ""
+```
+
+```table
+Name | Count
+Tom | 10
+Jack | 12
+```
